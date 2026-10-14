@@ -1,2 +1,3 @@
 # Fun-projects
-projects that i make for fun or for my daily use.
+Projects I build for fun or for my everyday use
+

@@ -104,30 +104,3 @@ The game may initialize audio after your first interaction, depending on your br
 ├── tsconfig.json        # TypeScript configuration
 └── vite.config.ts       # Vite configuration
 ```
-
-## Build for Production
-
-Create an optimized production build:
-
-```bash
-npm run build
-```
-
-The generated files will be placed in the `dist/` directory. To test the build locally, run:
-
-```bash
-npm run preview
-```
-
-## High Scores and Data
-
-Your high score is stored in your browser's local storage on the device and browser where you play. It does not automatically sync between devices or browsers.
-
-## Contributing
-
-Suggestions and improvements are welcome:
-
-1. Fork the repository.
-2. Create a branch for your change.
-3. Commit your changes.
-4. Open a pull request.

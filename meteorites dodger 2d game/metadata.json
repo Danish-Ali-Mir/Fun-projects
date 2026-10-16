@@ -1,0 +1,6 @@
+{
+  "name": "Meteorite Dodger - 2D Space Avoidance Game",
+  "description": "An exhilarating 2D space avoidance arcade game where you pilot a starship through a dense meteorite hazard storm with power-ups, particle physics, and responsive controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

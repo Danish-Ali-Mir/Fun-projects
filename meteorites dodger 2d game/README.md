@@ -131,7 +131,3 @@ Suggestions and improvements are welcome:
 2. Create a branch for your change.
 3. Commit your changes.
 4. Open a pull request.
-
-## License
-
-No license has been specified for this project yet. Add a `LICENSE` file if you want to make the project open source, and choose a license that fits how you want others to use it.
